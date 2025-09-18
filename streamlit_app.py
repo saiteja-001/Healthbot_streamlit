@@ -3,7 +3,7 @@ import streamlit as st
 from google.cloud import dialogflow_v2 as dialogflow
 
 # ✅ Point to your service account JSON (must be in repo root)
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "healthbot-472404-1569872ea9f4.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "healthbot-472404-1fbef5726917.json"
 
 # ✅ Your Dialogflow Project ID
 PROJECT_ID = "healthbot-472404"   # replace if your actual ID is different
@@ -46,3 +46,4 @@ if prompt := st.chat_input("Type your health query..."):
 
     st.session_state.messages.append({"role": "assistant", "content": reply})
     st.chat_message("assistant").markdown(reply)
+
