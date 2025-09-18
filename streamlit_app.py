@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 PROJECT_ID = os.environ.get("healthbot-472404")
-GOOGLE_CREDS = os.environ.get("C:\Users\KIIT0001\Desktop\HEALTHBOT\healthbot-472404-1569872ea9f4.json")
+GOOGLE_CREDS = os.environ.get(r"C:\Users\KIIT0001\Desktop\HEALTHBOT\healthbot-472404-1569872ea9f4.json")
 
 os.environ["C:\Users\KIIT0001\Desktop\HEALTHBOT\healthbot-472404-1569872ea9f4.json"] = GOOGLE_CREDS
 
@@ -39,3 +39,4 @@ if prompt := st.chat_input("Type your health query..."):
 
     st.session_state.messages.append({"role": "assistant", "content": reply})
     st.chat_message("assistant").markdown(reply)
+
