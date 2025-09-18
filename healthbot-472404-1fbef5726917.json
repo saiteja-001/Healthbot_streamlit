@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "healthbot-472404",
+  "private_key_id": "1fbef5726917df2243925eed21b9c562ff593e67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7pLiovTpm/TNS\nEFG+M05B8cnhA/IFNdjFWzoO29yBoTo7gC7utQXwzTxt+luWh5efgVQRDPxgppPB\nBeWmX7OCDXrCt+mzpiakX6kjC711ZfqwPVcBjGrhDDI13u5KLjrBICDpLUnveRXb\nHgSrQim0DS83AgFQGVbFUs4+7EIwWr/w7ORYKh0G2ObRdntDNTaxP/+Qz1zoAt+I\nFSok1ZvzfrBoliO8uGBG0TupTStUfeW+5qzEwBUuhAiV+LzG5gNzuqSCKBSCLaUm\nvs484hr1f/0138VdUbrTv4nDVczqprdOWcsvrcb8yNC+tlQNPadO0Zq0wdbdSyne\nMxmpjtKLAgMBAAECggEAFHnXmrY3esiTgpd8TAyONBz94huLm+zx0CtxzPBKAi1F\nTPviYzMGyG2k8/1XZDg8n++9bDTmD2fuBKivlDWqQX1WEYx/KJbvbY1wx/2+eWKc\n9gFjjqwzd4Zcrks65oZf6/YlETzbbhHhBC2k5clNArRTnCWQXhy9vr+X+P7QBDWb\nFU0FnnyxFpdJs4MIAaMVBPLHpl73pgEp2TFjjVU/Z/o8RPthg1IfgUKcl9k5Y6bK\nH3uQeNVOKidvS8NM6C37Q71/ZNIK3r9ghRkKoFKbAqt9++QlDNAznWuc9t4+TBEy\n/9afrUp4By4Iw/mb1GSqGh/kvKTXi7BAI4rOb20suQKBgQDhS7dbWzPRwRkptDIA\nTnevu9vewoOAAtYsfdccOuCa/zsmQ+rs1fVaG2fi+TnvRDkN8SIbVrwU89WS6l5q\n+yItzEdXAqt9FQTP2y1JdfLnZYW4647XfgcKbFz8QQHBHPGKqvQ3owgklvWLLQWc\nWCLaK4g420i/2yVm5c5mqzkYiQKBgQDVN1z8ZXWaLRbpPaxO1KCmzHJoUn1C+HCg\n/FhEQ2JjzHPtivhpAnIYEnUA5dkp9HLQYlXVKSaZNTN2ynTDQRe1TcnIYGrdhhnX\nuvKXXEUVaWgV4lJ4depKij4m07RjEJN4Kv1/OE4HSQ93QSuPmOEUTyfYfww5sbzP\n2LuvmjUlcwKBgGlbt0uJwxn8a4ANPLTX/TC5cYEjBcv/h5kW4FnbTt4tLcQfTuWi\nyTJyTorecjFqfiP++CxAy4Qg42fpIm51Mu6n8VTHctrz0WRC41LPTeDYoUhxIEO2\nNCSzuGhfHirpFiv69mpuW4iA8CM90rninanZYcL1CXhvS3ZrUbLBr9nBAoGAOeCj\nbygjekyPEZVaNrPlQCHzVHo/4nQKLskRNMaN6MVRGsRElkzBp+Mqu6mo/4iJuiNX\nZVucTK5yX+apN29t/hs1kR0LJUMHtNXckFXNsvg/9uDOvkBT7xQDtwp0xwdy4IXa\n9jPUiom8lwSrzHkVcCvkhxJFwUuME2ej2xEjKB0CgYBXGjkLzjieTYm2RpTc17AU\nzi3hB+DVTHYmo9wXd38qQxbW+Lmj1Y+2DKmbRO1y9NbXuEAtmiPGOFRcYbQpVdcj\ncTihumMQM3iQR2GKzzwhy7YuFeKCihkrRc9XRcIcAo6mko6DqpDkN1/3+idUzO1J\nQdpz2ST/hdxGRSfCy78MaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-sa@healthbot-472404.iam.gserviceaccount.com",
+  "client_id": "117001537007152603347",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-sa%40healthbot-472404.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
